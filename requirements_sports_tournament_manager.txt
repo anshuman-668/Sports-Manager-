@@ -1,0 +1,16 @@
+# Sports Tournament Manager - Requirements
+# ==========================================
+#
+# The project uses Python's standard library only.
+# No third-party packages are required.
+
+# Python version
+Python >= 3.8
+
+# Standard library features used:
+# - input() and print() for command-line interaction
+# - lists and dictionaries for teams, matches, and tournament data
+# - file handling (open, read, write) for tournament_results.txt
+# - exception handling for input validation
+#
+# No external pip dependencies are required.
